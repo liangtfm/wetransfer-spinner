@@ -16,7 +16,7 @@ Tests can be run with `npm test`
 All relevant files are located in `src` folder:
 
 - `<Button />`
-  - Button component that comes in multiple different states (e.g. <ActiveButton />)
+  - Button component that comes in multiple different states (e.g. `<ActiveButton />`)
 - `<Card />`
   - Card component is used to create a container for content. Card has a `<CardBody />` and `<CardFooter />` that can be used to keep content consistent looking.
 - `<Spinner />`
