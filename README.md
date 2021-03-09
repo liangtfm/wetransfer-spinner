@@ -12,6 +12,7 @@ Tools Used:
 - React Testing Library
 
 Tests can be run with `npm test`
+
 All relevant files are located in `src` folder:
 
 - `<Button />`
