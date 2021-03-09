@@ -1,5 +1,7 @@
 # Recreating the WeTransfer spinner
 
+This deploys to https://wetransferspinnermain.gatsbyjs.io/ using Gatsby Cloud
+
 Tools Used:
 
 - Gatsby
