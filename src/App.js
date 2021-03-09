@@ -9,9 +9,6 @@ const Container = styled.div`
   align-items: center;
   display: flex;
   justify-content: center;
-  * {
-    box-sizing: border-box;
-  }
 `;
 
 const DARK_THEME = {

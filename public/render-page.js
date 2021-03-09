@@ -5848,7 +5848,7 @@ __webpack_require__.r(__webpack_exports__);
 
 const Container = styled_components__WEBPACK_IMPORTED_MODULE_4__.default.div.withConfig({
   displayName: "App__Container"
-})(["align-items:center;display:flex;justify-content:center;*{box-sizing:border-box;}"]);
+})(["align-items:center;display:flex;justify-content:center;"]);
 const DARK_THEME = {
   color: "#ffffff",
   backgroundColor: "#333333",
@@ -6237,7 +6237,11 @@ __webpack_require__.r(__webpack_exports__);
 
 const GlobalStyle = styled_components__WEBPACK_IMPORTED_MODULE_2__.createGlobalStyle`
   body {
+    height: 100vh;
     margin: 0;
+  }
+  * {
+    box-sizing: border-box;
   }
 `; // styles
 

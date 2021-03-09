@@ -5,7 +5,11 @@ import App from "../App";
 
 const GlobalStyle = createGlobalStyle`
   body {
+    height: 100vh;
     margin: 0;
+  }
+  * {
+    box-sizing: border-box;
   }
 `;
 

@@ -6,8 +6,11 @@ Tools Used:
 - React
 - Styled-Components
 - Redux
+- Jest
+- React Testing Library
 
-All relevant files located in `src` folder:
+Tests can be run with `npm test`
+All relevant files are located in `src` folder:
 
 - `<Button />`
   - Button component that takes in a `buttonType` and `onClick` and returns a styled button (e.g. 'active', 'cancel')
@@ -16,4 +19,4 @@ All relevant files located in `src` folder:
 - `<Spinner />`
   - Spinner is the animation that is shown during uploads. It shows the upload progress bar that spins and has the percent complete in the middle.
 - `<UploadCard />`
-  - UploadCard is the component that is rendered in App.js. This uses the other components to create the upload flow that shows the spinner.
+  - UploadCard is the component that is rendered in `App.js`. This uses the other components to create the upload flow that shows the spinner.
