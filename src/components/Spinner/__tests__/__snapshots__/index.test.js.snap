@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-hKgILt guuNrP"
+    role="spinner"
+  >
+    <div
+      class="sc-dlfnbm jUdWyn"
+    >
+      <svg
+        height="200"
+        width="200"
+      >
+        <circle
+          class="sc-bdfBwQ grbpYE"
+          cx="100"
+          cy="100"
+          fill="transparent"
+          r="84"
+          stroke="#409fff"
+          stroke-dasharray="527.7875658030853 527.7875658030853"
+          stroke-width="8"
+          style="stroke-dashoffset: 527.7875658030853;"
+        />
+      </svg>
+    </div>
+    <span
+      class="sc-gsTCUz jPwBUC"
+    >
+      0%
+    </span>
+  </div>
+</DocumentFragment>
+`;

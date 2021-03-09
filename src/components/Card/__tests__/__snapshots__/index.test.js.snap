@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card renders CardBody and CardFooter correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dlfnbm eoyqaA"
+  >
+    <div
+      class="sc-bdfBwQ hEJWIb"
+    >
+      Card Body Text
+    </div>
+    <div
+      class="sc-gsTCUz Ntqgx"
+    >
+      Card Footer Text
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Card renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dlfnbm eoyqaA"
+  >
+    Card Text
+  </div>
+</DocumentFragment>
+`;

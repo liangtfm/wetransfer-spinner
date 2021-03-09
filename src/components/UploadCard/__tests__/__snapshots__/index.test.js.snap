@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UploadCard renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-jSgupP iSEwmU"
+  >
+    <div
+      class="sc-hKgILt kYWFQG"
+    >
+      <div
+        class="sc-jrAGrp hTWpAL"
+      >
+        Add your files
+      </div>
+    </div>
+    <div
+      class="sc-eCssSg fCoqQj"
+    >
+      <button
+        class="sc-bdfBwQ sc-gsTCUz gmIHCr caSOrm"
+        role="button"
+        type="button"
+      >
+        Transfer
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

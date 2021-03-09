@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders ActiveButton correctly 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bdfBwQ sc-gsTCUz gmIHCr caSOrm"
+  >
+    Active Text
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button renders CancelButton correctly 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bdfBwQ sc-dlfnbm gmIHCr edDKNS"
+  >
+    Cancel Text
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button renders correctly 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bdfBwQ gmIHCr"
+  >
+    Button Text
+  </button>
+</DocumentFragment>
+`;
